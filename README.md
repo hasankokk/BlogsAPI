@@ -8,7 +8,7 @@ Bu proje, ASP.NET Core ile geliştirilmiş bir blog yönetim sistemine ait Web A
 
 - 🔐 ASP.NET Core Identity ile kimlik doğrulama ve kullanıcı yönetimi
 - 🧑‍💻 Rol bazlı yetkilendirme (Admin / Yazar)
-- 📰 Gönderi, kategori ve etiket CRUD işlemleri
+- 📰 Gönderi CRUD işlemleri
 - 🧵 Entity Framework Core (Code-First)
 - 🧭 Scalar UI ile API dokümantasyonu
 - 🧱 Katmanlı mimari (Clean Architecture yaklaşımı)
