@@ -1,6 +1,6 @@
 # 📝 BlogsAPI
 
-Bu proje, ASP.NET Core ile geliştirilmiş bir blog yönetim sistemine ait Web API uygulamasıdır. Kimlik doğrulama, kullanıcı rolleri, blog gönderileri üzerinde işlemler yapmanıza olanak tanır. Katmanlı mimariyle yazılmıştır ve gelişime açıktır.
+Bu proje, ASP.NET Core ile geliştirilmiş bir blog yönetim sistemine ait Web API uygulamasıdır. Kimlik doğrulama, kullanıcı rolleri, blog gönderileri üzerinde işlemler yapmanıza olanak tanır. 
 
 ---
 
@@ -11,8 +11,6 @@ Bu proje, ASP.NET Core ile geliştirilmiş bir blog yönetim sistemine ait Web A
 - 📰 Gönderi CRUD işlemleri
 - 🧵 Entity Framework Core (Code-First)
 - 🧭 Scalar UI ile API dokümantasyonu
-- 🧱 Katmanlı mimari (Clean Architecture yaklaşımı)
-
 ---
 
 ## ⚙️ Teknolojiler
